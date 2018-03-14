@@ -1,0 +1,13 @@
+name = JLA
+data_file = /your-path/lcparam_full_long.txt
+pecz = 0
+intrinsicdisp = 0
+twoscriptmfit = F
+scriptmcut = 10.0
+has_mag_covmat = T
+mag_covmat_file =  /your-path/sys_full_long.txt
+has_stretch_covmat = F
+has_colour_covmat = F
+has_mag_stretch_covmat = F
+has_mag_colour_covmat = F
+has_stretch_colour_covmat = F
